@@ -30,7 +30,7 @@ public class WeatherServlet extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		String apiKey = "afd23b0e58c676c26ba763d0b044b303";
+		String apiKey = "your-api-key";
         String city = request.getParameter("city"); 
 		String apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey;
 		

@@ -14,6 +14,11 @@ body {
   background: #9aebdd;
 }
 
+.welcome-pg {
+	color:black; 
+	text-align:center;
+}
+
 .welcome-img {
 	height:400px; 
 	width:400px; 
