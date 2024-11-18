@@ -5,7 +5,7 @@ This is a simple weather web application built using Java, Servlets, JSP, HTML, 
 <div align="center">
 <img src="src/main/webapp/images/ss1.png" width="90%" style="border-radius: 16px;"/>
 </div>
-
+<br><br>
 <div align="center">
 <img src="src/main/webapp/images/ss2.png" width="90%" style="border-radius: 16px;"/>
 </div>
