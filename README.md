@@ -3,6 +3,7 @@
 This is a simple weather web application built using Java, Servlets, JSP, HTML, CSS, and the OpenWeather API. The app allows users to search for weather information of a city, including temperature, humidity, wind speed, and weather condition. It utilizes the OpenWeather API to fetch real-time weather data.
 
 ![Weather App Screenshot1](src/main/webapp/images/ss1.png)
+
 ![Weather App Screenshot2](src/main/webapp/images/ss2.png)
 
 ## Features
